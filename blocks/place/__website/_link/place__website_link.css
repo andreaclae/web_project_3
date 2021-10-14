@@ -1,0 +1,14 @@
+.place__website_link {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 750px) {
+  .place__website_link {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

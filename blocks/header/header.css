@@ -1,0 +1,8 @@
+.header {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 34px;
+  width: 90%;
+  object-fit: contain;
+}

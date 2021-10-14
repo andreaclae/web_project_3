@@ -1,0 +1,24 @@
+.intro__quote {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 142%;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  width: 690px;
+}
+@media screen and (min-width: 400px) and (max-width: 1250px) {
+  .intro__quote {
+    width: 90%;
+    max-width: 720px;
+    margin-left: 24px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .intro__quote {
+    font-size: 24px;
+    line-height: 125%;
+    max-width: 288px;
+    margin-left: 16px;
+  }
+}
