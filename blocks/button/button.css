@@ -24,3 +24,9 @@
     padding: 13px 20px;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .lead__image {
+    width: 288px;
+  }
+}
