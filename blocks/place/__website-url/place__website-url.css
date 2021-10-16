@@ -5,11 +5,14 @@
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: #aaaaaa;
+  margin: 0;
+  padding-bottom: 8px;
 }
 
 @media screen and (max-width: 750px) {
   .place__website-url {
     line-height: 12px;
     letter-spacing: 0.2em;
+    padding-bottom: 12px;
   }
 }
