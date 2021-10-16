@@ -2,7 +2,8 @@
 
 ### By: Andrea Claeyssen
 
-Link to project: https://github.com/andreaclae/web_project_3
+Link to page: https://andreaclae.github.io/web_project_3/
+Link to repository: https://github.com/andreaclae/web_project_3
 
 This is a project that showcases the hometowns of some of Practicum's employees. In this project I have used Figma in order to get all of the material to complete this project. There were roughly 7 sections of which I used the Grid feature for two of them. I also used Flexboxes in areas were it was appropriate. In order to create a responsive design, I have used Media Queries to match the Figma design that was given at 1280px, 768px, and 320px.
 
