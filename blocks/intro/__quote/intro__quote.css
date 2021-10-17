@@ -7,13 +7,13 @@
   margin-bottom: 10px;
   max-width: 690px;
 }
-@media screen and (min-width: 400px) and (max-width: 1250px) {
+@media screen and (min-width: 350px) and (max-width: 1250px) {
   .intro__quote {
     max-width: 720px;
     margin: 40px 24px 0;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
   .intro__quote {
     line-height: 125%;
     max-width: 288px;
