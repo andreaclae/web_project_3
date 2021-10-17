@@ -9,10 +9,9 @@
   grid-template-columns: 460px 1fr;
   grid-template-rows: min-content min-content 1fr;
   grid-gap: 48px 40px;
-
-  max-width: 1184px;
+  width: 100%;
+  max-width: 984px;
   margin-top: 80px;
-  padding: 0 24px;
 }
 .place:first-child {
   margin: 0;
@@ -22,7 +21,8 @@
   .place {
     grid-template-columns: 340px 1fr;
     grid-gap: 48px 28px;
-    margin-top: 28px;
+    padding: 0 24px;
+    margin-top: 72px;
   }
 }
 @media screen and (max-width: 690px) {
