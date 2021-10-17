@@ -2,21 +2,19 @@
   margin: 0 auto;
   padding: 0;
   width: 100%;
-  margin-top: 5vw;
+  max-width: 984px;
+  margin-top: 64px;
 }
 
-@media screen and (min-width: 400px) and (max-width: 1250px) {
-  .lead__image {
-    max-width: 984px;
-  }
-}
 @media screen and (min-width: 768px) and (max-width: 984px) {
   .lead__image {
     max-width: 768px;
+    margin-top: 36px;
   }
 }
 @media screen and (max-width: 400px) {
   .lead__image {
     min-width: 320px;
+    margin-top: 40px;
   }
 }

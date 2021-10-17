@@ -4,7 +4,7 @@
   line-height: 100px;
   text-align: center;
   padding: 0;
-  margin: 92px 255px 0;
+  margin: 95px 255px 0;
   width: 793px;
   align-self: center;
 }
@@ -13,7 +13,7 @@
   .lead__title {
     width: 90%;
     max-width: 720px;
-    margin: 88px 24px 0;
+    margin: 91px 24px 0;
   }
 }
 @media screen and (max-width: 550px) {
@@ -21,6 +21,6 @@
     font-size: 40px;
     line-height: 44px;
     max-width: 288px;
-    margin: 22px 0;
+    margin: 50px 0 0 0;
   }
 }

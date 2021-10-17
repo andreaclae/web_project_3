@@ -5,12 +5,11 @@
   margin: 0;
   padding: 0;
   margin-bottom: 40px;
-  width: 785px;
+  max-width: 785px;
 }
 
 @media screen and (min-width: 400px) and (max-width: 1250px) {
   .intro__title {
-    width: 90%;
     max-width: 720px;
     margin-left: 24px;
   }

@@ -6,3 +6,9 @@
   width: 90%;
   object-fit: contain;
 }
+
+@media screen and (max-width: 400px) {
+  .header {
+    margin-top: 20px;
+  }
+}
